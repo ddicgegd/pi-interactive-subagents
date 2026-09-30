@@ -175,6 +175,10 @@ Status display is configured via `config.json` in the extension directory (copy 
 }
 ```
 
+## Architecture & Evaluation
+
+For a detailed technical evaluation, trade-off analysis, and production recommendations, see [Architecture Evaluation (Đánh giá kiến trúc)](docs/ARCHITECTURE_EVALUATION.md).
+
 ## Requirements
 
 - [pi](https://github.com/badlogic/pi-mono)
